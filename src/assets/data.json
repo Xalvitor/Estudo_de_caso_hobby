@@ -1,0 +1,118 @@
+{
+    "generos": [
+        {
+            "id": 1,
+            "nome": "Estrategia em tempo real",
+            "descricao":"Estratégia em tempo real (sigla ETR), ou em inglês Real-time strategy (sigla RTS) é um subgênero de jogos de estratégia em que o jogo não tem progresso por turnos. Num RTS, jogadores geralmente tem o objetivo de fazer uso de recursos para criar bases e unidades, a fim de derrotar o oponente. Estes jogos requerem que o jogador tome decisões rápidas de como gerenciar seus recursos e planejar defesa e ataques com suas unidades."
+
+        },
+        {
+            "id": 2,
+            "nome": "Estrategia por turnos",
+            "descricao":"Estratégia em tempo real (sigla ETR), ou em inglês Real-time strategy (sigla RTS) é um subgênero de jogos de estratégia em que o jogo não tem progresso por turnos. Num RTS, jogadores geralmente tem o objetivo de fazer uso de recursos para criar bases e unidades, a fim de derrotar o oponente. Estes jogos requerem que o jogador tome decisões rápidas de como gerenciar seus recursos e planejar defesa e ataques com suas unidades."
+            
+        },
+        {
+            "id": 3,
+            "nome": "Grande estrategia",
+            "descricao":"Um jogo de guerra de grande estratégia ou simplesmente jogo de grande estratégia é um jogo de guerra que coloca o foco na grande estratégia: estratégia militar no nível de movimento e uso de um estado-nação ou dos recursos do império. O gênero tem sobreposição considerável com jogos 4X, mas difere por ser 'assimétrico', o que significa que os jogadores estão mais presos a uma configuração específica e não entre facções igualmente livres na exploração e progresso do jogo e de um mundo aberto"
+            
+        },
+        {
+            "id": 4,
+            "nome": "4X",
+            "descricao":"4X (eXplorar, eXpandir, eXtrair, eXterminar) é um subgênero de jogo eletrônico de estratégia ou de tabuleiro em que os jogadores controlam e evoluem impérios.[1] O termo foi cunhado pela primeira vez por Alan Emrich em seu preview de setembro de 1993 de Master of Orion para a Computer Gaming World. Desde então, tem-se adotado o termo para descrever os jogos com um escopo e design similar."
+            
+        }
+    ],
+    "jogos": [
+        {
+            "id": 1,
+            "genero": 1,
+            "titulo": "Age of empires",
+            "logo": "/src/assets/age_of_empires.jpg",
+            "descricao": "Age of Empires é um jogo eletrônico em que os jogadores precisam usar uma grande estratégia para criar e avançar com uma civilização em várias épocas históricas, combinando recursos, tecnologias, unidades, geografia e edifícios. As civilizações precisam avançar tecnologicamente para obter melhorias, mas para isso precisam, às vezes, combinar suas próprias tecnologias para formar unidades, edifícios ou até mesmo outras tecnologias. Assim também o jogador precisa combinar edifícios para construir outros novos, sendo que é necessário ter conhecimento para obter qualquer tipo de unidade de forma estratégica, construindo-os de forma correta e economizando recursos. Isso então leva o jogo a um nível estratégico avançado. Em junho de 2017, a Microsoft Studios anunciou que o jogo seria relançado em uma versão remasterizada, chamada Definitive Edition, com gráficos suportando resolução 4K, liberado para o público em fevereiro de 2018. É o primeiro jogo da franqua, enquanto sua popularidade não é tão grande quanto os subsequentes jogos na franquia, ainda permance um jogo de extrema importância para todo o gênero de estrategia, com centenas de jogadores até hoje, 27 anos após seu lançamento.",
+            "resumo": "Age of Empires (comumente abreviado como AoE ou AofE) é um jogo de computador de história, do gênero estratégia em tempo real desenvolvido pela Ensemble Studios e lançado pela Microsoft. O jogo permite aos usuários serem líderes de grandes civilizações ancestrais, atacando uns aos outros de modo a avançar nas quatro eras (Idade da Pedra, Idade da Ferramenta, Idade do Bronze e Idade do Ferro) evoluindo tecnológica e operacionalmente suas civilizações.",
+            "avaliacao": 83,
+            "desenvolvedora": "Ensemble Studios",
+            "dataLancamento": "13/10/1997"
+        },
+        {
+            "id": 2,
+            "genero": 1,
+            "titulo": "Starcraft 2",
+            "logo": "/src/assets/starcraft2.jpg",
+            "descricao": "StarCraft II é a continuação que prossegue com a história de personagens apresentados no jogo StarCraft (1998) e sua expansão StarCraft: Brood War (1998). Anunciado em 2008 pela blizzard e lançado em 2010, inicialmente, apenas com a campanha terrana, já que as outras campanhas, ainda estavam em desenvolvimento. O motivo disso, é que houve a decisão de separar as campanhas das raças e serem vendidas separadamente como jogo separados, para se ter um maior controle de desenvolvimento. A campanha seguinte, da raça zerg, foi lançado no ano 2013 e a seguinte a ela, a da raça protoss, foi lançada em 2015. Ao menos, 2 anos e meio de tempo de desenvolvimento entre o lançamentos delas. No final de 2015, foi anunciado o pacotes de missões, com lançamento em 2016. Mas, antes do lançamento do pacote de missões em 2016, todos os jogos foram unificados em um único cliente e vendidos unidos apenas com o nome de StarCraft II. Ele é o jogo de estrategia mais vendido da história, com enorme impacto no gênero, o definindo desde seu lançamento original, tendo vendido mais de 6 milhões de cópias.",
+            "resumo": "StarCraft II: Wings of Liberty é um jogo eletrônico para computador de estratégia e ficção científica militar, desenvolvido pela Blizzard Entertainment, um estúdio americano, como a sequência direta de StarCraft, jogo aclamado pela crítica e público. A história continua a partir do fim de Brood War, pacote de expansão do jogo original, trazendo personagens consagrados como James 'Jim' Raynor, Kerrigan, Zeratul, além de novos personagens, e dando enfoque à raça dos terranos e suas organizações, tais como os Saqueadores de Raynor e a Supremacia Terrana.",
+            "avaliacao": 88,
+            "desenvolvedora": "Blizzard Entertainment",
+            "dataLancamento": "27/07/2010"
+        },
+        {
+            "id": 3,
+            "genero": 2,
+            "titulo": "X-COM: UFO DEFENSE ",
+            "logo": "/src/assets/xcom.jpg",
+            "descricao": "UFO: Enemy Unknown (título original europeu), também conhecido como X-COM: UFO Defense na América do Norte, é um videogame de estratégia de ficção científica de 1994 desenvolvido pela Mythos Games e MicroProse. Foi publicado pela MicroProse para computadores DOS e Amiga, console Amiga CD32 e PlayStation. Originalmente planejado por Julian Gollop como uma sequência do Laser Squad de 1988 da Mythos Games, o jogo mistura simulação de gerenciamento em tempo real com táticas baseadas em turnos. O jogador assume o papel de comandante da X-COM – uma organização paramilitar e científica internacional que defende secretamente a Terra de uma invasão alienígena. Através do jogo, o jogador tem a tarefa de emitir ordens para tropas individuais do X-COM em uma série de missões táticas baseadas em turnos. Em escala estratégica, o jogador dirige a pesquisa e desenvolvimento de novas tecnologias, constrói e expande as bases do X-COM, administra as finanças e o pessoal da organização e monitora e responde às atividades de OVNIs. Apesar de seu desenvolvimento conturbado, inclusive tendo sido quase cancelado duas vezes, o jogo recebeu fortes críticas e foi um sucesso comercial, transformando-se em um grande sucesso e adquirindo seguidores cult entre os fãs de estratégia; várias publicações listaram X-COM: UFO Defense como um dos melhores videogames já feitos, incluindo IGN classificando-o como o melhor jogo para PC de todos os tempos em 2007. Foi a primeira e mais bem recebida entrada na série X-COM. e inspirou diretamente vários jogos semelhantes. Um remake oficial do jogo, XCOM: Enemy Unknown, foi publicado em 2012.",
+            "resumo": "UFO: Enemy Unknown (título original europeu), também conhecido como X-COM: UFO Defense na América do Norte, é um videogame de estratégia de ficção científica em qual o jogador assume o papel de comandante da X-COM, uma organização paramilitar e científica internacional que defende secretamente a Terra de uma invasão alienígena.",
+            "avaliacao": 92,
+            "desenvolvedora": "MicroProse",
+            "dataLancamento": "1994"
+        },
+        {
+            "id": 4,
+            "genero": 2,
+            "titulo": "Fire Emblem: Shadow Dragon and the Blade of Light",
+            "logo": "/src/assets/fireEmblem.jpg",
+            "descricao": "Fire Emblem: Shadow Dragon and the Blade of Light é um jogo eletrônico de RPG de estratégia desenvolvido pela Intelligent Systems e a Nintendo Research & Development 1 e publicado pela Nintendo . É o primeiro título da série Fire Emblem e foi lançado exclusivamente no Japão para o Family Computer em 20 de abril de 1990. Sua história segue a jornada do príncipe Marth para reconquistar seu trono que foi tomado pelo maligno feiticeiro Gharnef e seu mestre, o dragão Medeus. A jogabilidade envolve batalhas táticas por rodadas que ocorrem em diferentes mapas divididos em graus, com unidades derrotadas contendo substratos a morte permanente. O desenvolvimento de Shadow Dragon and the Blade of Light começou em 1987, tendo sido concebido pelo roteirista e projetista Shouzou Kaga. Seu desejo era combinar os elementos estratégicos de Famicom Wars com os personagens e histórias de um RPG eletrônico. Keisuke Terasaki foi o diretor e Gunpei Yokoi o produtor, com a trilha sonora tendo sido composta por Yuka Tsujiyoko e Hirokazu Tanaka. A escalada do jogo forçou a equipe a encontrar modos de resolver os problemas de memória, forçando alterações nos gráficos e na narrativa. A recepção crítica e comercial foi inicialmente morna, porém o título acabou se tornando popular e iniciou a franquia. Ele foi posteriormente creditado como um dos fatores na popularização geral do gênero de RPG de estratégia.",
+            "resumo": "Fire Emblem: Shadow Dragon and the Blade of Light é um jogo eletrônico de RPG de estratégia o qual segue a jornada do príncipe Marth para reconquistar seu trono que foi tomado pelo maligno feiticeiro Gharnef e seu mestre, o dragão Medeus. A jogabilidade envolve batalhas táticas por rodadas que ocorrem em diferentes mapas divididos em graus, com unidades derrotadas contendo substratos a morte permanente.",
+            "avaliacao": 63,
+            "desenvolvedora": "Intelligent Systems",
+            "dataLancamento": "20/04/1990"
+        },
+        {
+            "id": 5,
+            "genero": 3,
+            "titulo": "Europa Universalis 4",
+            "logo": "/src/assets/europaUniversalis.jfif",
+            "descricao": "Europa Universalis IV (comumente abreviado EUIV ou EU4) é um jogo de computador do gênero de estratégia desenvolvido pela Paradox Development Studio e publicado pela Paradox Interactive no dia 13 de agosto de 2013. O jogo se passa bem perto do início da Idade Moderna, ele se inicia em 11 de novembro de 1444, e termina em 1 de janeiro de 1821. Sendo um jogo que quer cobrir quatro séculos de História sobre os Descobrimentos e o Renascimento. O início se passa na era da exploração Europeia e pouco antes do início da colonização do Novo Mundo. Além disso no início do jogo está ocorrendo o final da Guerra dos Cem Anos e o declínio do Império Bizantino (A Queda de Constantinopla ocorreu em 1453) e jogo continua por todo o período da Guerra do Trinta Anos, a Independência Americana chegando a Revolução Francesa e indo até pouco depois da queda do Sacro Império Romano-Germânico e terminando ao fim das Guerras Napoleônicas. Porém, mesmo passando por todos estes períodos, nem o jogador, nem a IA, são obrigados a seguir eventos históricos. A abrangência do jogo é de quase 4 séculos, começando no dia 11 de novembro de 1444 A.D (O dia logo após a derrota dos Húngaros e Polacos para os Turcos Otomanos na Batalha de Varna e a morte do rei Polaco Vladislau III) e terminando no dia 1 de janeiro de 1821.",
+            "resumo": "Europa Universalis IV (comumente abreviado EUIV ou EU4) é um jogo de computador do gênero de estratégia o qual o jogadore toma o papel de um pais no ano de 1444(também podendo escolher diversas outras datas inicais) e o lidera na era de exploração do novo mundo. O jogo cobre o mundo inteiro nesse periodo, o jogador podendo escolher qualquer um pais nesse periodo do mundo, com cada região tendo diversas condições diferentes inicias baseado em conhecimentos histôricos do periodo.",
+            "avaliacao": 87,
+            "desenvolvedora": "Paradox Interactive",
+            "dataLancamento": "13/08/2013"
+        },
+        {
+            "id": 6,
+            "genero": 3,
+            "titulo": "Hearts of iron 4",
+            "logo": "/src/assets/heartsOfIron.jpg",
+            "descricao": "Hearts of Iron IV é um jogo eletrônico de estratégia desenvolvido pela Paradox Development Studio e lançado em 2016. É a sequência de Hearts of Iron III e parte da série Hearts of Iron, que têm foco na Segunda Guerra Mundial. Foi anunciado formalmente em janeiro de 2014 para ser lançado no primeiro semestre de 2015,para depois ter seu lançamento prorrogado para o segundo semestre de 2015. No dia 15 de março foi anunciado que a data do lançamento do jogo seria no dia 06 de junho de 2016 em comemoração ao 72º aniversário dos Desembarques da Normandia.O jogo utilizou o codinome Project Armstrong durante seu desenvolvimento.Hearts of Iron IV está disponível para Microsoft Windows, OS X e Linux. O jogador pode jogar modo singleplayer ou multiplayer como qualquer nação do mundo existentes entre 1936 ou 1939, sendo as principais o Reino Unido, a França, os Estados Unidos, a União Soviética, o Japão, a Itália e a Alemanha, datas em que se pode iniciar o jogo. As forças armadas de uma nação são divididas entre forças navais, forças aéreas e forças terrestres. Para as forças terrestres, o jogador pode treinar, personalizar e comandar divisões que consistem em vários tipos de infantaria, tanques e outras unidades. Essas divisões exigem equipamentos e mão-de-obra para combater adequadamente. A marinha e a força aérea também exigem homens e equipamentos, incluindo os navios de guerra e aviões de guerra que são usados ​​em combate. O equipamento é produzido por fábricas militares, enquanto os navios são construídos por estaleiros. Essas fábricas e estaleiros militares são, por sua vez, construídos por fábricas civis, que também constroem uma variedade de outros edifícios, produzem bens de consumo para a população civil e supervisionam o comércio com outras nações. A maioria das nações é inicialmente forçada a dedicar um número significativo de suas fábricas civis à produção de bens de consumo, mas à medida que a nação se torna cada vez mais mobilizada, mais fábricas serão liberadas para outros fins. A mobilização é representada como uma 'política' que o jogador pode ajustar com a quantidade adequada de poder político, um 'recurso' abstrato que também é usado para nomear novos ministros e mudar outras facetas do governo da nação. Além da mobilização, existem outras políticas, incluindo a posição do país sobre recrutamento e comércio.",
+            "resumo": "Hearts of Iron IV é um jogo eletrônico de estratégia em qual o jogador pode jogar modo singleplayer ou multiplayer como qualquer nação do mundo existentes entre 1936 ou 1939, sendo as principais o Reino Unido, a França, os Estados Unidos, a União Soviética, o Japão, a Itália e a Alemanha, datas em que se pode iniciar o jogo. Cada pais possui diversos caminhos que pode seguir, podendo desejar guiar o pais de forma semelhante a histórica, ou seguir com uma história alternativa, como uma Alemanhã que se torna uma demôcracia, ou uma Italia que segue o caminho comunista",
+            "avaliacao": 83,
+            "desenvolvedora": "Paradox Interactive",
+            "dataLancamento": "06/06/2016"
+        },
+        {
+            "id": 7,
+            "genero": 4,
+            "titulo": "Civilization 6",
+            "logo": "/src/assets/civilization6.jpg",
+            "descricao": "Sid Meier's Civilization VI é um jogo eletrônico de estratégia por turnos do gênero 4X desenvolvido pela Firaxis Games, publicado pela 2K Games, e distribuído pela Take-Two Interactive. O jogo é a mais recente adição à série Civilization, havendo sido lançado inicialmente para Microsoft Windows e macOS em outubro de 2016, com o lançamento subsequente de versões para Linux em fevereiro de 2017, iOS em dezembro de 2017, Nintendo Switch em novembro de 2018, PlayStation 4 e Xbox One em novembro de 2019 e Android em 2020. Semelhante aos outros jogos da franquia, o objetivo do jogador é desenvolver uma civilização de um assentamento inicial, com a passagem de milênios no jogo, até se tornar uma potência mundial e alcançar uma das várias condições de vitória, como através da dominação militar, da superioridade tecnológica, ou da influência cultural, superando os outros oponentes humanos e/ou controlados pelo computador. Os jogadores fazem isso explorando o mundo, fundando novas cidades, construindo melhorias na cidade, mobilizando unidades militares para atacar e defender-se de outros, pesquisando novas tecnologias e cívicos, desenvolvendo uma cultura influente e implementando comércio e fazendo negociações com outros líderes mundiais. O jogo contém várias civilizações novas, ausentes anteriormente na franquia Civilization, enquanto muitas outras civilizações que retornaram possuem novas capitais ou novos líderes. Um ponto crítico no projeto de jogo foi o foco para impedir que o jogador siga um caminho pré-definido de melhorias para a sua civilização, como era observado em jogos anteriores. Uma novidade em Civilization VI é o uso de distritos fora do centro da cidade para abrigar a maioria das edificações; por exemplo, um distrito de campus deve ser construído para se abrigar as edificações que fornecem ciência. Outras novas modificações incluem a pesquisa na árvore de tecnologia baseada em terreno próximo, uma árvore tecnológica semelhante mas para melhorias culturais, e uma melhor estrutura de cívicos de governo. Há também uma nova mecânica de inteligência artificial para oponentes controlados por computador que incluem objetivos secretos e ataques randomizados para perturbar o que seria um jogo estável.",
+            "resumo": "Sid Meier's Civilization VI é um jogo eletrônico de estratégia por turnos do gênero 4X o qual tem o objetivo do jogador é desenvolver uma civilização de um assentamento inicial, com a passagem de milênios no jogo, até se tornar uma potência mundial e alcançar uma das várias condições de vitória, como através da dominação militar, da superioridade tecnológica, ou da influência cultural, superando os outros oponentes humanos e/ou controlados pelo computador.",
+            "avaliacao": 88,
+            "desenvolvedora": "Firaxis Games",
+            "dataLancamento": "21/10/2016"
+        },
+        {
+            "id": 8,
+            "genero": 4,
+            "titulo": "Endless space 2",
+            "logo": "/src/assets/endlessSpace2.jpg",
+            "descricao": "Endless Space 2 é um jogo de estratégia 4X baseado em turnos desenvolvido pela Amplitude Studios e publicado pela Sega. É a sequência de Endless Space, lançado em 2012. O jogo estava disponível através do programa de acesso antecipado do Steam desde outubro de 2016. Foi lançado em 18 de maio de 2017 e recebeu críticas positivas. Endless Space 2 se passa em um universo que foi dominado há muito tempo por uma raça poderosa chamada Endless. Curiosos e dedicados, os Endless conseguiram fazer grandes avanços nos campos da ciência, o que culminou na conquista da virtualização, permitindo-lhes carregar suas mentes em máquinas e dando-lhes a vida eterna. Isto criou um grande cisma na sua sociedade, dividindo-a em duas facções opostas, os Virtuais, que abraçaram a imortalidade electrónica, e os Concretos, que a viam como uma abominação. O conflito rapidamente se tornou em uma guerra aberta, chamada de Guerra da Poeira, que essencialmente destruiu sua sociedade, deixando apenas alguns indivíduos sobreviventes fragmentados. Dezenas de milhares de anos após o desaparecimento do Endless, a galáxia está mais uma vez prosperando com vida capaz de viagens interestelares, escolhendo os restos do outrora grande império Endless. O jogador assume o controle de uma das 12 facções principais, cada uma uma civilização que avançou a capacidade de explorar o espaço após a destruição do império dos Endless, cada uma com sua própria jogabilidade assimétrica, enredo, mundo natal, naves espaciais, heróis e tecnologias.",
+            "resumo": "Endless Space 2 é um jogo de estratégia 4X baseado em turnos de ficção ciêntifica o qual o jogador pode escolher uma das 12 facções predefinidas, bem como criar sua própria facção personalizada. Eles recebem então o controle de um império incipiente, que devem expandir conquistando sistemas. O objetivo é se tornar a potência dominante da galaxia, seja por conquista, economia, ciência, ou criação de maravilhas.",
+            "avaliacao": 80,
+            "desenvolvedora": "Amplitude Studios",
+            "dataLancamento": "18/05/2017"
+        }
+    ]
+}
