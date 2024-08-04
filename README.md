@@ -1,6 +1,6 @@
 # Estudo_de_caso_hobby
 
-This template should help get you started developing with Vue 3 in Vite.
+Desenvolvido em VUE
 
 ## Recommended IDE Setup
 
